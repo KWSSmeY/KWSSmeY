@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur Sagadi</h1>
 <h3 align="center">About me: I am a beginner web developer. My path in IT began at the age of 15, when I really wanted to learn programming. I learned from YouTube videos. The language I started my journey with was Python. I learned Python twice a week. After that, I went to study at a school called Business College in the direction of "Information and Communication Technologies". There I was taught how to use programming languages such as HTML, CSS and JavaScript. I try to practice programming twice a week.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwssmey&label=Profile%20views&color=0e75b6&style=flat" alt="kwssmey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwssmey" alt="kwssmey" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 II'm currently Searching for **the job learning**
 
 - 🌱 I’m currently learning **Frontend Development**
